@@ -2,12 +2,6 @@
 o objetivo dessa aps é fazer um script em python que leia arquivos com diferentes quantidades de dados, ordenados e desordenados e compare a velocidade de ordenação atraves de um grafico das funçãos do python
 ---
 # Intruções
-[31/08, 09:10] NOEL MOREIRANova APS
-    
-
-Trago um projeto que faz ao menos um sentido. O grupo deve ser de até 4 pessoas.
-
-
 
 1) Suponha que sejam coletadas imagens da floresta amazônica, as quais são registradas em um banco de dados com a data e o horário em que foram capturadas. O formato para a data é:
    
